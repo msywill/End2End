@@ -1,0 +1,1 @@
+python train_cycle_unet.py --use_wandb

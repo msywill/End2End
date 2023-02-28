@@ -1,0 +1,1 @@
+python test_cyclegan.py  --epoch "50" --dataroot /home/viktor/catheter-CycleGAN/catheter-CycleGAN/HighToLow_s7 --name "cyclegan_50ep" --model cycle_gan --load_size 512 --crop_size 512 --sequence 7 --num_test 1200
